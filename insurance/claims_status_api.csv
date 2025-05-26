@@ -1,0 +1,51 @@
+claim_id,status,fraud_score
+C001,Under Review,0.7
+C002,Under Review,0.7
+C003,Under Review,
+C004,Under Review,
+C005,Rejected,0.95
+C006,Under Review,0.95
+C007,Approved,0.7
+C008,Under Review,0.3
+C009,Approved,
+C010,Approved,0.5
+C011,Under Review,0.5
+C012,Approved,
+C013,Approved,0.95
+C014,Submitted,
+C015,Rejected,0.1
+C016,Submitted,0.1
+C017,Rejected,0.1
+C018,Rejected,0.3
+C019,Under Review,0.5
+C020,Submitted,0.7
+C021,Rejected,0.5
+C022,Rejected,0.3
+C023,Approved,
+C024,Rejected,0.1
+C025,Rejected,0.1
+C026,Under Review,0.3
+C027,Approved,0.5
+C028,Submitted,0.5
+C029,Under Review,0.3
+C030,Approved,
+C031,Under Review,0.95
+C032,Rejected,0.7
+C033,Submitted,0.1
+C034,Rejected,
+C035,Submitted,0.1
+C036,Rejected,0.5
+C037,Submitted,0.7
+C038,Rejected,0.5
+C039,Approved,0.1
+C040,Rejected,0.3
+C041,Rejected,0.3
+C042,Approved,0.7
+C043,Rejected,
+C044,Approved,0.95
+C045,Approved,0.5
+C046,Approved,0.95
+C047,Submitted,0.95
+C048,Under Review,
+C049,Under Review,0.7
+C050,Submitted,0.95
